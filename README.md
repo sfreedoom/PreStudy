@@ -1,2 +1,2 @@
 # PreStudy
-it's the first real branch that i study with.
+it's the first true branch that i study with.
